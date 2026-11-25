@@ -23,4 +23,8 @@ export const CheckboxesData = [
       { id: 9, label: "Broccoli" },
     ],
   },
+  {
+    id: 10,
+    label: "Juice",
+  },
 ];
